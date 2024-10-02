@@ -40,4 +40,4 @@ The HTML code is used to set up a web page that integrates Leaflet, a JavaScript
 ### Step 4:
 To create the interactive Earthquake Visualization, the earthquake data in JSON format is imported and used to plot the earthquakes based on their geographic coordinates (longitude and latitude). Leveraging the Leaflet library, a map is generated with markers that represent each earthquake. The size of the markers corresponds to the earthquake's magnitude, while the color gradient reflects the earthquake's depth—darker colors indicate greater depths. Additionally, the visualization includes interactive popups that display detailed information about each earthquake when a marker is clicked. A legend is also incorporated to enhance user understanding by providing context for the color and size scales used in the map.
 
-![heatmap](https://github.com/Taireagan/United-States-Geological-Survey/blob/main/Images/heatmap.png)
+![usheatmap](https://github.com/Taireagan/United-States-Geological-Survey/blob/main/Images/usheatmap.png)
